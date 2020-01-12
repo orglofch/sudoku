@@ -1,11 +1,9 @@
 Sudoku-Solver
 ============
 
-Sudoku Solver using entropy heuristic and back-propagation.
+Sudoku Solver using entropy heuristic and back-tracking search.
 
 Language: C++
-
-Libraries: None.
 
 ---
 
